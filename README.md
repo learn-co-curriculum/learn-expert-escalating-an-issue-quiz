@@ -35,6 +35,7 @@
 (X) what is the issue or error they are seeing / experiencing
 (X) what environment is this issue happening in? (IDE? OS?)
 (X) what have you already tried? And what was the result?
+( ) what you think should happen 
 
 ???
 
