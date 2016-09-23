@@ -13,10 +13,10 @@
 
 ?: Which of the following is *not* a blocking issue? (check all that apply)
 
-(X) lights not working
-(X) students change their github name
-(X) students are getting frustrated with the program
-( ) students lights not working in the Welcome Track
+[X] lights not working
+[X] students change their github name
+[X] students are getting frustrated with the program
+[ ] students lights not working in the Welcome Track
 
 ?: If a student who's not in the program has a question about the program or admissions, you should
 
