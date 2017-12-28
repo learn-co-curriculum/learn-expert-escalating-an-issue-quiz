@@ -31,6 +31,7 @@
 (X) hit the Log Bug Report button and log the issue on Jira
 
 ?: When escalating an issue you should add (mark all that applies):
+
 [X] Full Name
 [X] Chat link
 [X] A full description of the issue
