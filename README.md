@@ -7,7 +7,7 @@
 
 ?: What do you need to do before logging a blocking issue?
 
-( ) screenshare, recreate the issue on your end, check support docs, and `@here` in the #technical-coaches channel
+( ) pair program, recreate the issue on your end, check support docs, and `@here` in the #technical-coaches channel
 ( ) page refresh, browse and search support repo, have another technical coach work with the student, and recreate the issue on your end
 (X) page refresh, browse and search support repo, recreate the issue on your end, and `@here` in the #technical-coaches channel
 
